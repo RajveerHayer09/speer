@@ -7,12 +7,12 @@
   "author": "",
   "license": "",
   "private": false,
-  "scripts": {
-    "start": "npm start",
-    "build": "npm build",
+ "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
+  }
   "dependencies": {
     "react": "^16.14.0",
     "react-dom": "^16.3.1"
